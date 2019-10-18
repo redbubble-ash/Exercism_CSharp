@@ -1,0 +1,3 @@
+C:\Users\xieji\Exercism\csharp\bank-account\obj\Debug\netcoreapp2.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\xieji\Exercism\csharp\bank-account\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\xieji\Exercism\csharp\bank-account\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfo.cs
