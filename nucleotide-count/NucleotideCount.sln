@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NucleotideCount", "NucleotideCount.csproj", "{32D333B1-1EE9-470F-907F-6943E5B26AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D333B1-1EE9-470F-907F-6943E5B26AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D333B1-1EE9-470F-907F-6943E5B26AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D333B1-1EE9-470F-907F-6943E5B26AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D333B1-1EE9-470F-907F-6943E5B26AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB1323F-82B6-4B9C-9B2A-775571157831}
+	EndGlobalSection
+EndGlobal
