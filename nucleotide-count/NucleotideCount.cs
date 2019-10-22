@@ -36,6 +36,7 @@ public static class NucleotideCount
                     t++;
                     DNALibrary['T'] = t;
                     break;
+                default: throw new ArgumentException();
             }
         }
 
