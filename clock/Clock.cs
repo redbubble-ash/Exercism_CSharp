@@ -67,4 +67,10 @@ public class Clock
 
         return ($"{String.Format("{0:00}", Hours)}:{String.Format("{0:00}", Minutes)}");
     }
+
+    public override bool Equals(object obj)
+    {
+        return (this.Hours == ((Clock)obj).Hours && this.Minutes == ((Clock)obj).Minutes);
+    }
+
 }
