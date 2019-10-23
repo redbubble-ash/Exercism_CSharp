@@ -25,6 +25,7 @@ public static class WordCount
             }
 
             wordDictionary.Add(withoutDuplicate[i].ToString(), n);
+            n = 0;
         }
         return wordDictionary;
     }

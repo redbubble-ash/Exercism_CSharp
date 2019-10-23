@@ -16,7 +16,7 @@ public class WordCountTest
         Assert.Equal(expected, actual);
     }
 
-    [Fact(Skip = "Remove to run test")]
+    [Fact]
     public void Count_one_of_each_word()
     {
         var actual = WordCount.CountWords("one of each");
@@ -29,7 +29,7 @@ public class WordCountTest
         Assert.Equal(expected, actual);
     }
 
-    [Fact(Skip = "Remove to run test")]
+    [Fact]
     public void Multiple_occurrences_of_a_word()
     {
         var actual = WordCount.CountWords("one fish two fish red fish blue fish");
