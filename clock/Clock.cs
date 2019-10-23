@@ -70,7 +70,8 @@ public class Clock
 
     public override bool Equals(object obj)
     {
-        return (this.Hours == ((Clock)obj).Hours && this.Minutes == ((Clock)obj).Minutes);
+        return this.Hours == ((Clock)obj).Hours && this.Minutes == ((Clock)obj).Minutes;
     }
-
 }
+
+//  see https://msdn.microsoft.com/en-us/library/2dts52z7(v=vs.110).aspx
