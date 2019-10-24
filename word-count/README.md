@@ -29,3 +29,6 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 This is a classic toy problem, but we were reminded of it by seeing it in the Go Tour.
 
+## Console result
+![image](Capture.PNG)
+
