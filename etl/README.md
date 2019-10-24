@@ -64,3 +64,6 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 The Jumpstart Lab team [http://jumpstartlab.com](http://jumpstartlab.com)
 
+## Console Result
+![image](Capture.PNG)
+
