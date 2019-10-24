@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xieji\\Exercism\\csharp\\two-fer\\TwoFer.csproj": {}
+    "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\two-fer\\TwoFer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xieji\\Exercism\\csharp\\two-fer\\TwoFer.csproj": {
+    "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\two-fer\\TwoFer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xieji\\Exercism\\csharp\\two-fer\\TwoFer.csproj",
+        "projectUniqueName": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\two-fer\\TwoFer.csproj",
         "projectName": "TwoFer",
-        "projectPath": "C:\\Users\\xieji\\Exercism\\csharp\\two-fer\\TwoFer.csproj",
+        "projectPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\two-fer\\TwoFer.csproj",
         "packagesPath": "C:\\Users\\xieji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xieji\\Exercism\\csharp\\two-fer\\obj\\",
+        "outputPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\two-fer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xieji\\AppData\\Roaming\\NuGet\\NuGet.Config",
