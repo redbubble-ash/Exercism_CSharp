@@ -35,3 +35,5 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 Partially inspired by Chapter 1 in Chris Pine's online Learn to Program tutorial. [http://pine.fm/LearnToProgram/?Chapter=01](http://pine.fm/LearnToProgram/?Chapter=01)
 
+## Console Result
+![image](Capture.PNG)
