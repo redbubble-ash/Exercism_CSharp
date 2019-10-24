@@ -2,33 +2,70 @@ using System;
 
 public class Clock
 {
-    public int Hours;
-    public int Minutes;
+    public int hours;
+    public int minutes; 
     public Clock(int hours, int minutes)
     {
-        this.Hours = hours;
-        this.Minutes = minutes;
 
+        this.hours = hours;
+        this.minutes = minutes;
+        clockConvert();
     }
 
+    //public int Hours { get { return hours; } }
+    //public int Minutes { get { return hours; } }
+
+    public void clockConvert()
+    {
+        int addHours = 0;
+        if (minutes >= 60)
+        {
+            addHours = minutes / 60;
+            minutes = minutes % 60;
+        }
+        if (hours >= 0)
+        {
+            hours = (hours + addHours) % 24;
+        }
+        if (minutes < 0)
+        {
+            if (minutes % 60 == 0)
+            {
+                addHours = minutes / 60;
+                minutes = minutes % 60;
+            }
+            else
+            {
+                addHours = minutes / 60 - 1;
+                minutes = 60 + minutes % 60;
+            }
+            hours += addHours;
+        }
+        if (hours < 0)
+        {
+            hours = 24 + hours % 24;
+        }
+    }
 
     public Clock Add(int minutesToAdd)
     {
-        Clock clockAdd = new Clock(Hours, Minutes);
-        int convertToMinutes = clockAdd.Hours * 60 + clockAdd.Minutes;
+        Clock clockAdd = new Clock(hours, minutes);
+        int convertToMinutes = clockAdd.hours * 60 + clockAdd.minutes;
         convertToMinutes += minutesToAdd;
-        clockAdd.Hours = convertToMinutes / 60;
-        clockAdd.Minutes = convertToMinutes % 60;
+        clockAdd.hours = convertToMinutes / 60;
+        clockAdd.minutes = convertToMinutes % 60;
+        clockAdd.clockConvert();
         return clockAdd;
     }
 
     public Clock Subtract(int minutesToSubtract)
     {
-        Clock clockSubtract = new Clock(Hours, Minutes);
-        int convertToMinutes = clockSubtract.Hours * 60 + Minutes;
+        Clock clockSubtract = new Clock(hours, minutes);
+        int convertToMinutes = clockSubtract.hours * 60 + minutes;
         convertToMinutes -= minutesToSubtract;
-        clockSubtract.Hours = convertToMinutes / 60;
-        clockSubtract.Minutes = convertToMinutes % 60;
+        clockSubtract.hours = convertToMinutes / 60;
+        clockSubtract.minutes = convertToMinutes % 60;
+        clockSubtract.clockConvert();
         return clockSubtract;
 
 
@@ -36,41 +73,13 @@ public class Clock
 
     public override string ToString()
     {
-        int addHours = 0;
-        if (Minutes >= 60)
-        {
-            addHours = Minutes / 60;
-            Minutes = Minutes % 60;
-        }
-        if (Hours >= 0)
-        {
-            Hours = (Hours + addHours) % 24;
-        }
-        if (Minutes < 0)
-        {
-            if (Minutes % 60 == 0)
-            {
-                addHours = Minutes / 60;
-                Minutes = Minutes % 60;
-            }
-            else
-            {
-                addHours = Minutes / 60 - 1;
-                Minutes = 60 + Minutes % 60;
-            }
-            Hours += addHours;
-        }
-        if (Hours < 0)
-        {
-            Hours = 24 + Hours % 24;
-        }
 
-        return ($"{String.Format("{0:00}", Hours)}:{String.Format("{0:00}", Minutes)}");
+        return ($"{String.Format("{0:00}", hours)}:{String.Format("{0:00}", minutes)}");
     }
 
     public override bool Equals(object obj)
     {
-        return this.Hours == ((Clock)obj).Hours && this.Minutes == ((Clock)obj).Minutes;
+        return this.hours == ((Clock)obj).hours && this.minutes == ((Clock)obj).minutes;
     }
 }
 
