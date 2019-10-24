@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xieji\\Exercism\\csharp\\hello-world\\HelloWorld.csproj": {}
+    "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\hello-world\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xieji\\Exercism\\csharp\\hello-world\\HelloWorld.csproj": {
+    "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\hello-world\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xieji\\Exercism\\csharp\\hello-world\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\hello-world\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\xieji\\Exercism\\csharp\\hello-world\\HelloWorld.csproj",
+        "projectPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\hello-world\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\xieji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xieji\\Exercism\\csharp\\hello-world\\obj\\",
+        "outputPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\hello-world\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xieji\\AppData\\Roaming\\NuGet\\NuGet.Config",
