@@ -125,7 +125,7 @@ public class WordCountTest
         Assert.Equal(expected, actual);
     }
 
-    [Fact(Skip = "Remove to run test")]
+    [Fact]
     public void With_quotations()
     {
         var actual = WordCount.CountWords("Joe can't tell between 'large' and large.");
