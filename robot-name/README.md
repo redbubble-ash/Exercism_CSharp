@@ -33,3 +33,5 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 A debugging session with Paul Blackwell at gSchool. [http://gschool.it](http://gschool.it)
 
+## Console Result
+![image](Capture.PNG)
