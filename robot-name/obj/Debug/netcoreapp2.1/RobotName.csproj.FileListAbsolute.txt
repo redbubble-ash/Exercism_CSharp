@@ -13,3 +13,18 @@ C:\Users\xieji\Exercism\csharp\robot-name\obj\Debug\netcoreapp2.1\RobotName.Asse
 C:\Users\xieji\Exercism\csharp\robot-name\obj\Debug\netcoreapp2.1\RobotName.AssemblyInfo.cs
 C:\Users\xieji\Exercism\csharp\robot-name\obj\Debug\netcoreapp2.1\RobotName.dll
 C:\Users\xieji\Exercism\csharp\robot-name\obj\Debug\netcoreapp2.1\RobotName.pdb
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\bin\Debug\netcoreapp2.1\testhost.exe
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\bin\Debug\netcoreapp2.1\testhost.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\bin\Debug\netcoreapp2.1\RobotName.deps.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\bin\Debug\netcoreapp2.1\RobotName.runtimeconfig.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\bin\Debug\netcoreapp2.1\RobotName.runtimeconfig.dev.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\bin\Debug\netcoreapp2.1\RobotName.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\bin\Debug\netcoreapp2.1\RobotName.pdb
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\obj\Debug\netcoreapp2.1\RobotName.csprojAssemblyReference.cache
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\obj\Debug\netcoreapp2.1\RobotName.AssemblyInfoInputs.cache
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\obj\Debug\netcoreapp2.1\RobotName.AssemblyInfo.cs
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\obj\Debug\netcoreapp2.1\RobotName.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\robot-name\obj\Debug\netcoreapp2.1\RobotName.pdb
