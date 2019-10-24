@@ -46,3 +46,5 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 JavaRanch Cattle Drive, exercise 3 [http://www.javaranch.com/leap.jsp](http://www.javaranch.com/leap.jsp)
 
+# Console result
+![image](Capture.PNG)

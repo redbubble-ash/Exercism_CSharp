@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xieji\\Exercism\\csharp\\queen-attack\\QueenAttack.csproj": {}
+    "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\queen-attack\\QueenAttack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xieji\\Exercism\\csharp\\queen-attack\\QueenAttack.csproj": {
+    "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\queen-attack\\QueenAttack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xieji\\Exercism\\csharp\\queen-attack\\QueenAttack.csproj",
+        "projectUniqueName": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\queen-attack\\QueenAttack.csproj",
         "projectName": "QueenAttack",
-        "projectPath": "C:\\Users\\xieji\\Exercism\\csharp\\queen-attack\\QueenAttack.csproj",
+        "projectPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\queen-attack\\QueenAttack.csproj",
         "packagesPath": "C:\\Users\\xieji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xieji\\Exercism\\csharp\\queen-attack\\obj\\",
+        "outputPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\queen-attack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xieji\\AppData\\Roaming\\NuGet\\NuGet.Config",

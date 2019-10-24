@@ -4071,11 +4071,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xieji\\Exercism\\csharp\\nucleotide-count\\NucleotideCount.csproj",
+      "projectUniqueName": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\nucleotide-count\\NucleotideCount.csproj",
       "projectName": "NucleotideCount",
-      "projectPath": "C:\\Users\\xieji\\Exercism\\csharp\\nucleotide-count\\NucleotideCount.csproj",
+      "projectPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\nucleotide-count\\NucleotideCount.csproj",
       "packagesPath": "C:\\Users\\xieji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xieji\\Exercism\\csharp\\nucleotide-count\\obj\\",
+      "outputPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\nucleotide-count\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xieji\\AppData\\Roaming\\NuGet\\NuGet.Config",

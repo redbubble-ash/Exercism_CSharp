@@ -34,3 +34,6 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 The Calculating DNA Nucleotides_problem at Rosalind [http://rosalind.info/problems/dna/](http://rosalind.info/problems/dna/)
 
+## Console Result
+![image](Capture.PNG)
+

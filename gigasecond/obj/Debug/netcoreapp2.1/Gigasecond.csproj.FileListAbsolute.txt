@@ -13,3 +13,18 @@ C:\Users\xieji\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.dll
 C:\Users\xieji\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.pdb
 C:\Users\xieji\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.dll
 C:\Users\xieji\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.pdb
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\bin\Debug\netcoreapp2.1\testhost.exe
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\bin\Debug\netcoreapp2.1\testhost.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.deps.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.runtimeconfig.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.runtimeconfig.dev.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.pdb
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.csprojAssemblyReference.cache
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.AssemblyInfoInputs.cache
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.AssemblyInfo.cs
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.pdb

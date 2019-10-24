@@ -43,3 +43,6 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 [https://github.com/exercism/problem-specifications/issues/757](https://github.com/exercism/problem-specifications/issues/757)
 
+## Console Result
+![image](Capture.PNG)
+

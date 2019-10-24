@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xieji\\Exercism\\csharp\\resistor-color\\ResistorColor.csproj": {}
+    "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\resistor-color\\ResistorColor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xieji\\Exercism\\csharp\\resistor-color\\ResistorColor.csproj": {
+    "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\resistor-color\\ResistorColor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xieji\\Exercism\\csharp\\resistor-color\\ResistorColor.csproj",
+        "projectUniqueName": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\resistor-color\\ResistorColor.csproj",
         "projectName": "ResistorColor",
-        "projectPath": "C:\\Users\\xieji\\Exercism\\csharp\\resistor-color\\ResistorColor.csproj",
+        "projectPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\resistor-color\\ResistorColor.csproj",
         "packagesPath": "C:\\Users\\xieji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xieji\\Exercism\\csharp\\resistor-color\\obj\\",
+        "outputPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\resistor-color\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xieji\\AppData\\Roaming\\NuGet\\NuGet.Config",
