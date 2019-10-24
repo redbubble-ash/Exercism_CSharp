@@ -3,7 +3,7 @@ using System;
 public class Clock
 {
     public int hours;
-    public int minutes; 
+    public int minutes;
     public Clock(int hours, int minutes)
     {
 
@@ -11,9 +11,6 @@ public class Clock
         this.minutes = minutes;
         clockConvert();
     }
-
-    //public int Hours { get { return hours; } }
-    //public int Minutes { get { return hours; } }
 
     public void clockConvert()
     {
@@ -43,7 +40,8 @@ public class Clock
         }
         if (hours < 0)
         {
-            hours = 24 + hours % 24;
+            if (hours % 24 == 0) hours = 0;
+            else hours = 24 + hours % 24;
         }
     }
 
