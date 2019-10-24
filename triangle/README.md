@@ -40,3 +40,6 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 The Ruby Koans triangle project, parts 1 & 2 [http://rubykoans.com](http://rubykoans.com)
 
+## Console result
+![image](Capture.PNG)
+
