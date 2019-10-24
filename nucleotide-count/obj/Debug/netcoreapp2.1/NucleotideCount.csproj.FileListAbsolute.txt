@@ -13,3 +13,18 @@ C:\Users\xieji\Exercism\csharp\nucleotide-count\obj\Debug\netcoreapp2.1\Nucleoti
 C:\Users\xieji\Exercism\csharp\nucleotide-count\obj\Debug\netcoreapp2.1\NucleotideCount.AssemblyInfo.cs
 C:\Users\xieji\Exercism\csharp\nucleotide-count\obj\Debug\netcoreapp2.1\NucleotideCount.dll
 C:\Users\xieji\Exercism\csharp\nucleotide-count\obj\Debug\netcoreapp2.1\NucleotideCount.pdb
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\bin\Debug\netcoreapp2.1\testhost.exe
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\bin\Debug\netcoreapp2.1\testhost.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\bin\Debug\netcoreapp2.1\NucleotideCount.deps.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\bin\Debug\netcoreapp2.1\NucleotideCount.runtimeconfig.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\bin\Debug\netcoreapp2.1\NucleotideCount.runtimeconfig.dev.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\bin\Debug\netcoreapp2.1\NucleotideCount.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\bin\Debug\netcoreapp2.1\NucleotideCount.pdb
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\obj\Debug\netcoreapp2.1\NucleotideCount.csprojAssemblyReference.cache
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\obj\Debug\netcoreapp2.1\NucleotideCount.AssemblyInfoInputs.cache
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\obj\Debug\netcoreapp2.1\NucleotideCount.AssemblyInfo.cs
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\obj\Debug\netcoreapp2.1\NucleotideCount.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\nucleotide-count\obj\Debug\netcoreapp2.1\NucleotideCount.pdb
