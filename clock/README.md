@@ -29,3 +29,5 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 Pairing session with Erin Drummond [https://twitter.com/ebdrummond](https://twitter.com/ebdrummond)
 
+## Console result
+![image](Capture.PNG)
