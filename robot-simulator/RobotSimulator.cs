@@ -47,7 +47,6 @@ public class RobotSimulator
     public void Move(string instructions)
     {
         char[] newInstrctions = instructions.ToCharArray();
-        Console.WriteLine("newInstructions" + newInstrctions);
         foreach (char instr in newInstrctions)
         {
             if (direction == Direction.North)
