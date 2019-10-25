@@ -1,0 +1,15 @@
+C:\Users\xieji\Exercism\csharp\robot-simulator\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\xieji\Exercism\csharp\robot-simulator\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\xieji\Exercism\csharp\robot-simulator\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\xieji\Exercism\csharp\robot-simulator\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\xieji\Exercism\csharp\robot-simulator\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\xieji\Exercism\csharp\robot-simulator\bin\Debug\netcoreapp2.1\RobotSimulator.deps.json
+C:\Users\xieji\Exercism\csharp\robot-simulator\bin\Debug\netcoreapp2.1\RobotSimulator.runtimeconfig.json
+C:\Users\xieji\Exercism\csharp\robot-simulator\bin\Debug\netcoreapp2.1\RobotSimulator.runtimeconfig.dev.json
+C:\Users\xieji\Exercism\csharp\robot-simulator\bin\Debug\netcoreapp2.1\RobotSimulator.dll
+C:\Users\xieji\Exercism\csharp\robot-simulator\bin\Debug\netcoreapp2.1\RobotSimulator.pdb
+C:\Users\xieji\Exercism\csharp\robot-simulator\obj\Debug\netcoreapp2.1\RobotSimulator.csprojAssemblyReference.cache
+C:\Users\xieji\Exercism\csharp\robot-simulator\obj\Debug\netcoreapp2.1\RobotSimulator.AssemblyInfoInputs.cache
+C:\Users\xieji\Exercism\csharp\robot-simulator\obj\Debug\netcoreapp2.1\RobotSimulator.AssemblyInfo.cs
+C:\Users\xieji\Exercism\csharp\robot-simulator\obj\Debug\netcoreapp2.1\RobotSimulator.dll
+C:\Users\xieji\Exercism\csharp\robot-simulator\obj\Debug\netcoreapp2.1\RobotSimulator.pdb
