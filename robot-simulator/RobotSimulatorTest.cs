@@ -142,7 +142,7 @@ public class RobotSimulatorTest
         Assert.Equal(0, sut.Y);
     }
 
-    [Fact(Skip = "Remove to run test")]
+    [Fact]
     public void Follow_series_of_instructions_moving_east_and_north_from_readme()
     {
         var sut = new RobotSimulator(Direction.North, 7, 3);
@@ -152,7 +152,7 @@ public class RobotSimulatorTest
         Assert.Equal(4, sut.Y);
     }
 
-    [Fact(Skip = "Remove to run test")]
+    [Fact]
     public void Follow_series_of_instructions_moving_west_and_north()
     {
         var sut = new RobotSimulator(Direction.North, 0, 0);
@@ -162,7 +162,7 @@ public class RobotSimulatorTest
         Assert.Equal(1, sut.Y);
     }
 
-    [Fact(Skip = "Remove to run test")]
+    [Fact]
     public void Follow_series_of_instructions_moving_west_and_south()
     {
         var sut = new RobotSimulator(Direction.East, 2, -7);
@@ -172,7 +172,7 @@ public class RobotSimulatorTest
         Assert.Equal(-8, sut.Y);
     }
 
-    [Fact(Skip = "Remove to run test")]
+    [Fact]
     public void Follow_series_of_instructions_moving_east_and_north()
     {
         var sut = new RobotSimulator(Direction.South, 8, 4);

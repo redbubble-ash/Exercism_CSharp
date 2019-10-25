@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 public enum Direction
 {
     North,
@@ -47,76 +46,81 @@ public class RobotSimulator
 
     public void Move(string instructions)
     {
-        if (direction == Direction.North)
+        char[] newInstrctions = instructions.ToCharArray();
+        Console.WriteLine("newInstructions" + newInstrctions);
+        foreach (char instr in newInstrctions)
         {
-            switch (instructions)
+            if (direction == Direction.North)
             {
-                case "R":
-                    direction = Direction.East;
-                    break;
-                case "L":
-                    direction = Direction.West;
-                    break;
-                case "A":
-                    y++;
-                    break;
-                default:
-                    break;
+                switch (instr)
+                {
+                    case 'R':
+                        direction = Direction.East;
+                        break;
+                    case 'L':
+                        direction = Direction.West;
+                        break;
+                    case 'A':
+                        y++;
+                        break;
+                    default:
+                        break;
 
+                }
             }
-        }
-        else if (direction == Direction.East)
-        {
-            switch (instructions)
+            else if (direction == Direction.East)
             {
-                case "R":
-                    direction = Direction.South;
-                    break;
-                case "L":
-                    direction = Direction.North;
-                    break;
-                case "A":
-                    x++;
-                    break;
-                default:
-                    break;
+                switch (instr)
+                {
+                    case 'R':
+                        direction = Direction.South;
+                        break;
+                    case 'L':
+                        direction = Direction.North;
+                        break;
+                    case 'A':
+                        x++;
+                        break;
+                    default:
+                        break;
 
+                }
             }
-        }
-        else if (direction == Direction.South)
-        {
-            switch (instructions)
+            else if (direction == Direction.South)
             {
-                case "R":
-                    direction = Direction.West;
-                    break;
-                case "L":
-                    direction = Direction.East;
-                    break;
-                case "A":
-                    y--;
-                    break;
-                default:
-                    break;
+                switch (instr)
+                {
+                    case 'R':
+                        direction = Direction.West;
+                        break;
+                    case 'L':
+                        direction = Direction.East;
+                        break;
+                    case 'A':
+                        y--;
+                        break;
+                    default:
+                        break;
 
+                }
             }
-        }
-        else if (direction == Direction.West)
-        {
-            switch (instructions)
+            else if (direction == Direction.West)
             {
-                case "R":
-                    direction = Direction.North;
-                    break;
-                case "L":
-                    direction = Direction.South;
-                    break;
-                case "A":
-                    x--;
-                    break;
-                default:
-                    break;
+                switch (instr)
+                {
+                    case 'R':
+                        direction = Direction.North;
+                        break;
+                    case 'L':
+                        direction = Direction.South;
+                        break;
+                    case 'A':
+                        x--;
+                        break;
+                    default:
+                        break;
 
+                }
             }
         }
     }
