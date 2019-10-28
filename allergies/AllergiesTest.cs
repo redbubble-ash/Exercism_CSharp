@@ -347,7 +347,7 @@ public class AllergiesTest
         Assert.Equal(expected, sut.List());
     }
 
-    [Fact(Skip = "Remove to run test")]
+    [Fact]
     public void No_allergen_score_parts()
     {
         var sut = new Allergies(509);
