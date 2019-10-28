@@ -1,0 +1,15 @@
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\bin\Debug\netcoreapp2.1\testhost.exe
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\bin\Debug\netcoreapp2.1\testhost.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\bin\Debug\netcoreapp2.1\Allergies.deps.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\bin\Debug\netcoreapp2.1\Allergies.runtimeconfig.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\bin\Debug\netcoreapp2.1\Allergies.runtimeconfig.dev.json
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\bin\Debug\netcoreapp2.1\Allergies.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\bin\Debug\netcoreapp2.1\Allergies.pdb
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\obj\Debug\netcoreapp2.1\Allergies.csprojAssemblyReference.cache
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\obj\Debug\netcoreapp2.1\Allergies.AssemblyInfoInputs.cache
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\obj\Debug\netcoreapp2.1\Allergies.AssemblyInfo.cs
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\obj\Debug\netcoreapp2.1\Allergies.dll
+C:\TLG Learning 2019\Exercism_Coding_Practice\allergies\obj\Debug\netcoreapp2.1\Allergies.pdb
