@@ -50,3 +50,5 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 Jumpstart Lab Warm-up [http://jumpstartlab.com](http://jumpstartlab.com)
 
+## Console result
+![image](Capture.PNG)
