@@ -39,3 +39,6 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 Problem 6 at Project Euler [http://projecteuler.net/problem=6](http://projecteuler.net/problem=6)
 
+## Console result
+![image](Capture.PNG)
+
