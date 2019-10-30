@@ -28,3 +28,17 @@ public static class DifferenceOfSquares
         return CalculateSquareOfSum(max) - CalculateSumOfSquares(max);
     }
 }
+
+//using LINQ Query: Enumerable.Range & Enumerable.Sum()
+//class Squares
+//{
+//    private IEnumerable<int> range;
+
+//    public Squares(int n) { range = Enumerable.Range(1, n); } // a collection/list from 1 through n, eg: n=10, {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+
+//    public int SumOfSquares() => range.Sum(x => x * x);
+
+//    public int SquareOfSums() => (int)Math.Pow(range.Sum(), 2);
+
+//    public int DifferenceOfSquares() => SquareOfSums() - SumOfSquares();
+//}
