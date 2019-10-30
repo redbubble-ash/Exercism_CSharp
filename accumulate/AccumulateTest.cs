@@ -55,6 +55,7 @@ public class AccumulateTest
         Assert.Equal(3, counter);
     }
 
+
     [Fact]
     public void Accumulate_allows_different_return_type()
     {
