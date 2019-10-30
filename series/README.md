@@ -38,3 +38,6 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 A subset of the Problem 8 at Project Euler [http://projecteuler.net/problem=8](http://projecteuler.net/problem=8)
 
+## Console result
+![image](Capture.PNG)
+
