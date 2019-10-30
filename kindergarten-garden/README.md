@@ -77,3 +77,6 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 Random musings during airplane trip. [http://jumpstartlab.com](http://jumpstartlab.com)
 
+## Console result
+![image](Capture.PNG)
+
