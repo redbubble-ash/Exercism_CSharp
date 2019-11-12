@@ -44,3 +44,6 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 JavaRanch Cattle Drive, exercise 6 [http://www.javaranch.com/grains.jsp](http://www.javaranch.com/grains.jsp)
 
+## Test Result
+![image](Capture.PNG)
+
