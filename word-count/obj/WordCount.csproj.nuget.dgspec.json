@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\word-count\\WordCount.csproj": {}
+    "C:\\Users\\xieji\\Exercism\\csharp\\word-count\\WordCount.csproj": {}
   },
   "projects": {
-    "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\word-count\\WordCount.csproj": {
+    "C:\\Users\\xieji\\Exercism\\csharp\\word-count\\WordCount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\word-count\\WordCount.csproj",
+        "projectUniqueName": "C:\\Users\\xieji\\Exercism\\csharp\\word-count\\WordCount.csproj",
         "projectName": "WordCount",
-        "projectPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\word-count\\WordCount.csproj",
+        "projectPath": "C:\\Users\\xieji\\Exercism\\csharp\\word-count\\WordCount.csproj",
         "packagesPath": "C:\\Users\\xieji\\.nuget\\packages\\",
-        "outputPath": "C:\\TLG Learning 2019\\Exercism_Coding_Practice\\word-count\\obj\\",
+        "outputPath": "C:\\Users\\xieji\\Exercism\\csharp\\word-count\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xieji\\AppData\\Roaming\\NuGet\\NuGet.Config",
