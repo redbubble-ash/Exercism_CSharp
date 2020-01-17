@@ -68,3 +68,7 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 Wikipedia [http://en.wikipedia.org/wiki/Circular_buffer](http://en.wikipedia.org/wiki/Circular_buffer)
 
+## Test Result
+
+![image](Capture.PNG)
+
